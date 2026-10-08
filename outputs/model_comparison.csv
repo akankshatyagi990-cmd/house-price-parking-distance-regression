@@ -1,0 +1,2 @@
+model_name,mae,rmse,r2,intercept,num_features
+manual_linear_regression,238056.48590312403,270202.51401941257,-1.5765375826171342,-687618.7073475707,9

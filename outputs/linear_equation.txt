@@ -1,0 +1,11 @@
+Linear regression equation:
+price_usd = -687618.707348
+ + (227.244016 * area_sqft)
+ + (133864.795663 * bedrooms)
+ + (123460.768392 * bathrooms)
+ + (-1578.016060 * age_years)
+ + (-2672.125115 * distance_city_km)
+ + (25648.475120 * parking_spaces)
+ + (-79084.224599 * location_Rural)
+ + (-3883.689840 * location_Suburban)
+ + (85560.661765 * location_Urban)
